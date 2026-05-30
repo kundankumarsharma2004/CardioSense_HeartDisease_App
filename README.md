@@ -1,16 +1,16 @@
 CardioSense Heart Disease Prediction System
 
 
-Live Demo
+Live Demo:
 https://cardiosense-heartdisease-app.onrender.com
 
-GitHub Repository
+GitHub Repository:
 https://github.com/kundankumarsharma2004/CardioSense_HeartDisease_App
 
-Overview
+Overview:
 CardioSense is a Machine Learning based web application designed to predict the risk of heart disease based on patient health parameters. The application provides an intuitive user interface where users can enter medical details and receive an instant prediction along with visual insights.
 
-Features
+Features:
 Heart disease risk prediction using Machine Learning
 User-friendly web interface
 Interactive data visualization
@@ -20,16 +20,16 @@ Real-time prediction results
 Graphical analysis of health parameters
 Technology Stack
 
-Frontend
+Frontend:
 HTML5
 CSS3
 JavaScript
 
-Backend
+Backend:
 Python
 Flask
 
-Machine Learning
+Machine Learning:
 Scikit-Learn
 NumPy
 Pandas
@@ -37,11 +37,11 @@ Visualization
 Matplotlib
 Seaborn
 
-Deployment
+Deployment:
 GitHub
 Render
 
-Project Structure
+Project Structure:
 
 heart_app/
 
@@ -62,7 +62,7 @@ heart_app/
 └── README.md
 
 
-Installation
+Installation:
 
 Clone the repository:
 git clone https://github.com/kundankumarsharma2004/CardioSense_HeartDisease_App.git
@@ -81,11 +81,11 @@ Open in browser:
 http://127.0.0.1:5050
 
 
-Deployment
+Deployment:
 The application is deployed on Render:
 https://cardiosense-heartdisease-app.onrender.com
 
-Future Enhancements
+Future Enhancements:
 User authentication system
 Patient history management
 Database integration
@@ -94,10 +94,10 @@ Mobile application support
 Cloud-based analytics
 Medical report export functionality
 
-Author
+Author:
 Kundan Kumar Sharma
 B.Tech Computer Science & Engineering
 Haldia Institute of Technology
 
-License
+License:
 This project is developed for educational and academic purposes.
